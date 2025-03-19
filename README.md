@@ -43,4 +43,4 @@ C:\Users\YourUsername\AppData\Roaming\Microsoft\Word\Startup
 
 ## 3. Add In Word
 ### For Mac
-![](./Gifs/mac_word_add.gif)
+![](https://github.com/ScreenplayFormat/Gifs/mac_word_add.gif)
