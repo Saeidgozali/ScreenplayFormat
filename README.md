@@ -16,7 +16,7 @@
 ## 1. Introduction
 🎬 This project introduces a custom ribbon tab for Microsoft Word, designed specifically for screenwriters. The tab provides quick access to essential formatting and structuring tools commonly used in scriptwriting. It includes options for adding scene titles, character names, parentheticals, and dialogue, making the scriptwriting process more efficient.
 
-## 2. Install
+## 2. Installation
 ### For Mac
 1. Open Finder and navigate to:
 ```
