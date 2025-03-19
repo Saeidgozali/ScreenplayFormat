@@ -2,6 +2,7 @@
 <p align="center">
   <img width="80%" src="Figures/Tab.png">
 </p>
+
 ## Table of Contents
 1. [Introduction](#1-introduction)
 2. [Model Summary](#2-model-summary)
@@ -44,9 +45,11 @@ C:\Users\YourUsername\AppData\Roaming\Microsoft\Word\Startup
 ## 3. Add In Word
 ### For Mac
 
-![](./Gifs/mac_word_add.gif)
+![](./Gifs/MacAdd.gif)
 
 ### For Windows
+
+![](./Gifs/WindowsAdd.gif)
 
 ## 4. Enable Macros
 ### For Mac
