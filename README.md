@@ -49,7 +49,13 @@ C:\Users\YourUsername\AppData\Roaming\Microsoft\Word\Startup
 
 ### For Windows
 
-![](./Gifs/WindowsAdd.gif)
+![](./Gifs/WinAdd.gif)
 
 ## 4. Enable Macros
 ### For Mac
+
+![](./Gifs/MacMacros.gif)
+
+### For Windows
+
+![](./Gifs/WinMacros.gif)
