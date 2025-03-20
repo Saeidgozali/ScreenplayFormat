@@ -50,3 +50,12 @@ C:\Users\YourUsername\AppData\Roaming\Microsoft\Word\Startup
 ### For Windows
 
 ![](./Gifs/WinMacros.gif)
+
+## 4. Create Tab In Word
+### For Mac
+
+![](./Gifs/MacMacros.gif)
+
+### For Windows
+
+![](./Gifs/WinMacros.gif)
