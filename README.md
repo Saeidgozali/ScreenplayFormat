@@ -22,7 +22,7 @@
 3. Restart Microsoft Word to apply the changes.
 
 > [!NOTE]
->Required font: IRNazanin.
+>Required font: ```IRNazanin```
 
 ### For Windows
 1. Open File Explorer and navigate to:
@@ -37,7 +37,7 @@ C:\Users\YourUsername\AppData\Roaming\Microsoft\Word\Startup
 3. Restart Microsoft Word to apply the changes.
 
 > [!NOTE]
->Required font: ‌BNazanin.
+>Required font: ‌```BNazanin```
 
 ## 3. Add In Word
 ### For Mac
