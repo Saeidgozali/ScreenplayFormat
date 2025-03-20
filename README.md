@@ -21,6 +21,9 @@
 
 3. Restart Microsoft Word to apply the changes.
 
+> [!NOTE]
+>Required font: IRNazanin.
+
 ### For Windows
 1. Open File Explorer and navigate to:
 ```
@@ -32,6 +35,9 @@ C:\Users\YourUsername\AppData\Roaming\Microsoft\Word\Startup
 2. Copy Windows-Format.dotm from the Files folder and paste it into the Startup folder.  
 
 3. Restart Microsoft Word to apply the changes.
+
+> [!NOTE]
+>Required font: ‌BNazanin.
 
 ## 3. Add In Word
 ### For Mac
