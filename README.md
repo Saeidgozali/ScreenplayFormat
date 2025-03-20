@@ -40,7 +40,7 @@ C:\Users\YourUsername\AppData\Roaming\Microsoft\Word\Startup
 
 ### For Windows
 
-![](./Gifs/WinAdd.gif)
+Tutorial will be added in the next update.
 
 ## 4. Enable Macros
 ### For Mac
@@ -49,7 +49,7 @@ C:\Users\YourUsername\AppData\Roaming\Microsoft\Word\Startup
 
 ### For Windows
 
-![](./Gifs/WinMacros.gif)
+Tutorial will be added in the next update.
 
 ## 5. Create Tab In Word
 ### For Mac
@@ -58,4 +58,4 @@ C:\Users\YourUsername\AppData\Roaming\Microsoft\Word\Startup
 
 ### For Windows
 
-![](./Gifs/WinTab.gif)
+Tutorial will be added in the next update.
