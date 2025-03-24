@@ -1,9 +1,5 @@
 # 🎬 Screenplay Format Tab for Microsoft Word  
 
-<p align="center">
-  <img width="80%" src="Figures/Tab.png">
-</p>
-
 ![Alt text](Figures/Tab.png)
 
 This project introduces a custom **screenwriting tab** for **Microsoft Word**, making it easier for writers to format their scripts. With this tab, you can quickly apply standard screenplay formatting, including:  
