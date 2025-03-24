@@ -72,7 +72,7 @@ C:\Users\YourUsername\AppData\Roaming\Microsoft\Word\Startup
 Check ```Training Tab.mp4``` in Usage folder .
 ## 8.LICENSE
 ```plaintext
-Copyright (c) [YEAR] [Your Name]  
+Copyright (c) [2025] [Saeid Gozali]  
 
 This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).**
 
