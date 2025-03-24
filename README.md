@@ -23,21 +23,52 @@ C:\Users\YourUsername\AppData\Roaming\Microsoft\Word\Startup
 >Required font: ‌```B Nazanin```
 
 ## 3. Enable Macros
+### Step1:
 <p>
   <img width="50%" src="Figures/M1.JPG" >
+</p>
+
+### Step2:
+<p>
   <img width="50%" src="Figures/M2.JPG" >
 </p>
 
+
 ## 4. Add In Word
+### Step1:
 <p>
   <img width="50%" src="Figures/A1.JPG" >
+</p>
+
+### Step2:
+<p>
   <img width="50%" src="Figures/A2.JPG" >
+</p>
+
+### Step3:
+<p>
   <img width="50%" src="Figures/A3.JPG" >
 </p>
 
 ## 5. Add Tab
+### Step1:
 <p>
   <img width="50%" src="Figures/U1.JPG" >
+</p>
+
+> [!NOTE]
+>Click import and add ‌```SreenplauUI.ExportedUI‌``` From Startup folder to word.
+### Step2:
+<p>
   <img width="50%" src="Figures/U2.JPG" >
+</p>
+
+### Step3:
+<p>
   <img width="50%" src="Figures/U3.JPG" >
 </p>
+
+## 6.Usage
+Check ```Training Tab.mp4``` in Usage folder .
+## 8.LICENSE
+
