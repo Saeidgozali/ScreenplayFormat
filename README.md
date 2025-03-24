@@ -71,4 +71,18 @@ C:\Users\YourUsername\AppData\Roaming\Microsoft\Word\Startup
 ## 6.Usage
 Check ```Training Tab.mp4``` in Usage folder .
 ## 8.LICENSE
+```plaintext
+Copyright (c) [YEAR] [Your Name]  
 
+This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).**
+
+You are free to:  
+✅ **Share** (copy and redistribute) the material in any medium or format.  
+✅ Adapt (remix, transform, and build upon the material) for non-commercial purposes.  
+
+Under the following terms:  
+🔹 Attribution – You must give appropriate credit and indicate if changes were made.  
+🔹 NonCommercial – You may not use the material for commercial purposes.  
+🔹 ShareAlike – If you remix, transform, or build upon the material, you must distribute your contributions under the same license.  
+
+For more details, see: https://creativecommons.org/licenses/by-nc-sa/4.0/
