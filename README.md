@@ -54,22 +54,6 @@ The video covers:
 
 ---
 
-### 🍏 For Mac  
-
-1️⃣ **Open the Startup folder**:  
-   - Open **Finder** and navigate to:  
-     ```
-     ~/Library/Group Containers/UBF8T346G9.Office/User Content/Startup/Word/
-     ```
-   - If the `Library` folder is hidden, press **Cmd + Shift + . (dot)** to reveal it.  
-
-2️⃣ **Copy the required file**:  
-   - Copy `Mac-Format.dotm` from the `Files` folder and paste it into the `Word` folder.  
-
-3️⃣ **Restart Microsoft Word** to apply the changes.  
-
----
-
 ## 🔐 Enabling Macros  
 
 To enable macros in Microsoft Word:  
