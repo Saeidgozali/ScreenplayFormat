@@ -113,18 +113,21 @@ To add the **Screenplay Format Tab**:
 
 ## 📜 License  
 
-```plaintext
-Copyright (c) 2025 Saeid Gozali  
-
-This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).**
+This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.  
 
 You are free to:  
-✅ **Share** – Copy and redistribute this project in any medium or format.  
-✅ **Adapt** – Remix, transform, and build upon this project for non-commercial purposes.  
 
-Under the following conditions:  
-🔹 **Attribution** – You must give appropriate credit and indicate if changes were made.  
-🔹 **Non-Commercial** – You may not use the material for commercial purposes.  
-🔹 **ShareAlike** – If you modify or build upon this work, you must distribute your contributions under the same license.  
+- **Share** – Copy and redistribute this project in any medium or format.  
+- **Adapt** – Remix, transform, and build upon this project for non-commercial purposes.  
 
-For more details, see: [Creative Commons License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Under the following terms:  
+
+- **Attribution** – You must give appropriate credit and indicate if changes were made.  
+- **Non-Commercial** – You may not use the material for commercial purposes.  
+- **ShareAlike** – If you remix, transform, or build upon this work, you must distribute your contributions under the same license.  
+
+For more details, see the full [license text](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
+
+---
+
+If you find this project useful, please **star** this repository and contribute by reporting issues or suggesting improvements! 🚀
