@@ -1,8 +1,3 @@
-
-Saeid Gozali <saeidgozalideveloper@gmail.com>
-12:49 AM (0 minutes ago)
-to saeed.gozali1382@gmail.com
-
 # 🎬 Screenplay Format Tab for Microsoft Word  
 
 <p align="center">
