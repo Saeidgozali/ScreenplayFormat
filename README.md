@@ -115,6 +115,8 @@ To add the **Screenplay Format Tab**:
 
 This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.  
 
+Copyright (c) 2025 Saeid Gozali
+
 You are free to:  
 
 - **Share** – Copy and redistribute this project in any medium or format.  
