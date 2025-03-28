@@ -22,7 +22,8 @@ This project introduces a custom **screenwriting tab** for **Microsoft Word**, m
 
 For a step-by-step guide, watch the **tutorial video** located in the [`Usage`](./Usage) folder:  
 
-📂 `Training Tab.mp4`  
+📂 `Write.gif`  
+📂 `Edit.gif`  
 
 The video covers:  
 ✔ How to enable and use the **Screenplay Format Tab**.  
